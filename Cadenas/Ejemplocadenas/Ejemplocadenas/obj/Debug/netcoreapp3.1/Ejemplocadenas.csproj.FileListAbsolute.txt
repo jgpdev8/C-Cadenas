@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\bin\Debug\netcoreapp3.1\Ejemplocadenas.exe
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\bin\Debug\netcoreapp3.1\Ejemplocadenas.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\bin\Debug\netcoreapp3.1\Ejemplocadenas.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\bin\Debug\netcoreapp3.1\Ejemplocadenas.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\bin\Debug\netcoreapp3.1\Ejemplocadenas.dll
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\bin\Debug\netcoreapp3.1\Ejemplocadenas.pdb
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.dll
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.pdb
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Ejemplocadenas\Ejemplocadenas\obj\Debug\netcoreapp3.1\Ejemplocadenas.genruntimeconfig.cache

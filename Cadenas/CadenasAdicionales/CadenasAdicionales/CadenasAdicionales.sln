@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadenasAdicionales", "CadenasAdicionales\CadenasAdicionales.csproj", "{82765A8A-C29E-4615-836A-3638B959A8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82765A8A-C29E-4615-836A-3638B959A8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82765A8A-C29E-4615-836A-3638B959A8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82765A8A-C29E-4615-836A-3638B959A8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82765A8A-C29E-4615-836A-3638B959A8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89FB2080-3BD9-49A8-B7F5-F143576D7920}
+	EndGlobalSection
+EndGlobal

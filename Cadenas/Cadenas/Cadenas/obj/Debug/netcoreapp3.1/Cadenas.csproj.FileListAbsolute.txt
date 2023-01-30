@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.exe
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.pdb
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.pdb
+C:\Users\javie\Desktop\DAW\Programación\Cadenas\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.genruntimeconfig.cache
